@@ -26,10 +26,16 @@ Users should be able to:
 
 ### Screenshot
 
+#### Screenshot desktop:
+  ![]screenshot-desktop](https://github.com/Parviz-Parastar/Product-preview-card/blob/main/screenshot/desktop.png?raw=true)
+
+***
+  ![]screenshot-mobile](https://github.com/Parviz-Parastar/Product-preview-card/blob/main/screenshot/mobile.png?raw=true)
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Parviz-Parastar/challenge-3/tree/main/product-preview-card)
-- Live Site URL: [Add live site URL here](https://parviz-parastar.github.io/challenge-3/)
+- Solution URL: [Add solution URL here](https://github.com/Parviz-Parastar/Product-preview-card)
+- Live Site URL: [Add live site URL here](https://parviz-parastar.github.io/Product-preview-card/)
 
 ## My process
 
