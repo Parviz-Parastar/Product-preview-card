@@ -27,10 +27,10 @@ Users should be able to:
 ### Screenshot
 
 #### Screenshot desktop:
-  ![]screenshot-desktop](https://github.com/Parviz-Parastar/Product-preview-card/blob/main/screenshot/desktop.png?raw=true)
+  ![screenshot-desktop](https://github.com/Parviz-Parastar/Product-preview-card/blob/main/screenshot/desktop.png?raw=true)
 
 ***
-  ![]screenshot-mobile](https://github.com/Parviz-Parastar/Product-preview-card/blob/main/screenshot/mobile.png?raw=true)
+  ![screenshot-mobile](https://github.com/Parviz-Parastar/Product-preview-card/blob/main/screenshot/mobile.png?raw=true)
 
 ### Links
 
