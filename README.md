@@ -54,8 +54,10 @@ To see how you can add code snippets, see below:
 
 ```html
  <source media="(min-width: 700px)" srcset="images/image-product-desktop.jpg">
-
+```
 ```css
+
+ CSS tags
 main,
 body {
     transform: scale(1);
@@ -90,7 +92,7 @@ body {
         transform: scale(1);
         filter: saturate(1);
     }
-...
+```
 
 ### Continued development
 
